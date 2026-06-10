@@ -1,6 +1,6 @@
 # 🚀 Courses Playground
 
-This repository is my dedicated space for structured projects, hands-on labs, and assignments from online learning platforms.
+This repository is my dedicated space for practical and theoretical content from public and private courses, etc.
 
 ---
 
